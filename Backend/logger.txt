@@ -1,0 +1,8 @@
+3/20/2023, 1:22:34 AM 	 ER_BAD_FIELD_ERROR: Unknown column 'UnitInStock' in 'field list'
+----------------------------
+3/20/2023, 1:03:41 PM 	 id 792 not exist
+----------------------------
+3/20/2023, 1:04:03 PM 	 Route /api/products/79rr not exist
+----------------------------
+3/20/2023, 1:21:23 PM 	 id 79 not exist
+----------------------------

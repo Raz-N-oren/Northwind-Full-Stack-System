@@ -1,0 +1,18 @@
+.ProductCard {
+  width: 250px;
+  display: inline-flex !important;
+  text-align: left;
+  background-image: linear-gradient(90deg, gold, white);
+}
+
+.ProductCard img {
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 10px;
+  vertical-align: middle;
+}
+
+.ProductCard > div:last-child {
+  margin-left: auto;
+}
